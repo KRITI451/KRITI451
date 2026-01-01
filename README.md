@@ -1,6 +1,12 @@
-![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
-<h1 align="center">Hi 👋, I'm Kriti</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<!-- 💖 Typing animation introduction -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=FF69B4&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Kriti+Sehgal!;A+Passionate+Learner+and+Developer;Exploring+the+World+of+Tech!" alt="Typing SVG"/>
+  </a>
+</div>
+
+<br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriti451&label=Profile%20views&color=0e75b6&style=flat" alt="kriti451" /> </p>
 
